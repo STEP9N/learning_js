@@ -1,9 +1,6 @@
 "use strict";
 
-const category = 'toys';
+const isChecked = true,
+    isClose = true;
 
-console.log('https://google.com/${category}/5');
-
-const user = 'Stepan';
-
-alert(`Darova, ${user}`);
+console.log(isChecked || isClose);
