@@ -5,3 +5,6 @@
     20:18 practice 2
 01.07.22
     17:20 practice 3 (functions)
+
+11.07.22
+    23:24 practice 4 (functions)
